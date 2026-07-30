@@ -3,7 +3,7 @@ In this project I worked with generated data from a travel-website. The goal was
 
 
 ## 01SQL_Query
-Filter the data with this query for the different tables (sessions, user, flights, hotels) for active customers and download the csv file to raw/data
+Filter the data with this query for the different tables (sessions, user, flights, hotels) for active customers and download the csv file to raw/data.
 
 ## 02EDA
 Looking and analyzing the data, add columns to the different tables, handle errors in the data and saving them in preprocessed_data.
@@ -20,4 +20,4 @@ First, with rules: some customers can be clustered manually by simple rules (e.g
 The single groups are exported again as csv files in groups_data.
 
 ## 06Group_Analysis
-
+Visualizing differences between the groups and exporting the complete df with all users, features and groups.
